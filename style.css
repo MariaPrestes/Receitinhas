@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #A9C2C9;
+    background-color: #a9c2c9;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -13,11 +13,21 @@
 }
 
 .logo-topo{
-width: 25%;
+    width: 25%;
 }
 
 .lista-item-topo{
     display: inline-block;
     margin: 0 22px;
     font-size: 24px;
+}
+
+.sobreosite-imagem{
+    width: 20%;
+}
+
+.sobreosite{
+    background-image: linear-gradient( #a9c2c9,#C5F7F0);
+    color: white;
+    display: flex;
 }

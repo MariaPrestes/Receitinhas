@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .cabecalho {
     background-color: #a9c2c9;
     color: white;
@@ -20,6 +24,8 @@
     display: inline-block;
     margin: 0 22px;
     font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    color: #72577C ;
 }
 
 .sobreosite-imagem{
@@ -30,4 +36,18 @@
     background-image: linear-gradient( #a9c2c9,#C5F7F0);
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.sobreosite-divisao{
+    width: 35%;
+    font-family: 'Poppins', sans-serif;
+    color: #562155;
+}
+
+.sobreosite-titulo{
+    padding: 24px 0;
+    font-family: 'Poppins', sans-serif;
 }

@@ -52,6 +52,94 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.receitas-img-strog{
-    width: 20%;
+.receitaum-imagem{
+    width: 80%;
+}
+
+.receitas-div{
+    text-align: center;
+    padding: 16px 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.receitaum-todos{
+    display: grid;
+    grid-template-columns: 33% 33% 34%;
+    background-color: #a9c2c9;
+    color: #562155;
+}
+
+.strogonofftituloum {
+    text-align: center;
+    color: #562155;
+    font-family: 'Poppins', sans-serif;
+    background-color: #a9c2c9;
+}
+
+.receitaumtitulo{
+    text-align: left;
+    padding: 24px 10px 10px 10px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #a9c2c9;
+    color: #562155;
+}
+
+.tituloreceitadois{
+    text-align: center;
+    padding: 24px 0;
+    background-color: #562155;
+    font-family: 'Poppins', sans-serif;
+    color: #C5F7F0;
+}
+
+.receitadois-imagem{
+    width: 80%;
+}
+
+.receitadois-todos{
+    display: grid;
+    grid-template-columns: 33% 33% 34%;
+    background-color: #562155;
+    padding: 24px 10px 10px 10px;
+}
+
+.receitas-dois{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #C5F7F0;
+}
+
+.titulo-receitatres{
+    text-align: center;
+    padding: 24px 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #C5F7F0;
+    color: #562155;
+}
+
+.tirinhaimagem{
+    width: 70%;
+}
+
+.receitatres{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #562155;
+}
+
+.receitatres-todos{
+    display: grid;
+    grid-template-columns: 33% 33% 34%;
+    padding: 24px 10px 10px 10px;
+    background-color: #C5F7F0;
+}
+
+.rodape{
+    background-color: #a9c2c9;
+    text-align: center;
+}
+
+.imagem-rodape{
+   height: 60px;
+   padding: 12px 0;
 }
